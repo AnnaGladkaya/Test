@@ -3,21 +3,21 @@
     width:500px;
     display: flex;
     flex-direction: column;
-    background: rgb(226, 235, 167);
+    background: rgb(97, 238, 116);
     font-family: 'Georgia';
-    border: 1mm ridge rgb(21, 1, 100);
+    border: 1mm ridge rgb(243, 255, 81);
     padding: 20px;
 }
 body{
     background: #b0cae8;
 }
 .wrong{
-    background-color: #efa8a3;
+    background-color: #B22222;
     border-radius: 5px;
     padding-left:5px;
 }
 .right{
-    background-color: #4fe465;
+    background-color: #00800;
     border-radius: 5px;
     padding-left:5px;
 }
