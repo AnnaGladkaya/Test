@@ -3,13 +3,13 @@
     width:500px;
     display: flex;
     flex-direction: column;
-    background: rgb(97, 238, 116);
+    background: rgb(87, 255, 109);
     font-family: 'Georgia';
-    border: 1mm ridge rgb(243, 255, 81);
+    border: 1mm ridge rgb(15, 150, 3);
     padding: 20px;
 }
 body{
-    background: #b0cae8;
+    background: #E9967A;
 }
 .wrong{
     background-color: #B22222;
